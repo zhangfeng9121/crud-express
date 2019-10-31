@@ -75,9 +75,6 @@ exports.editOne = function(stu, callback) {
         var stuObj = JSON.parse(data);
 
         var stuEdit = stuObj.students.find(function(item) {
-            console.log(item);
-            console.log('----------------------');
-            console.log(stu);
             return parseInt(item.id) === parseInt(stu.id);
         });
 
