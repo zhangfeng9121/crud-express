@@ -1,0 +1,45 @@
+{
+    "students": [
+    {
+        "id": 1,
+        "name": "张果",
+        "age": 18,
+        "gender": 0,
+        "hobbies": "芥末，的课，相融"
+    },
+    {
+        "id": 2,
+        "name": "张果2",
+        "age": 12,
+        "gender": 0,
+        "hobbies": "22222222222222"
+    },
+    {
+        "id": 3,
+        "name": "张果3",
+        "age": 19,
+        "gender": 1,
+        "hobbies": "相融"
+    },
+    {
+        "id": 4,
+        "name": "张果4",
+        "age": 20,
+        "gender": 0,
+        "hobbies": "444444444444"
+    },
+    {
+        "id": 5,
+        "name": "张果5",
+        "age": 18,
+        "gender": 1,
+        "hobbies": "555555555555"
+    },
+    {
+        "name": "aa",
+        "age": "dd",
+        "gender": "2",
+        "hobbies": "aa",
+        "id": 6
+    }]
+}
